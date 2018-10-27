@@ -1,0 +1,12 @@
+{
+    "name": "zaq/composer-lab-assets",
+    "authors": [
+        {
+            "name": "3A532089",
+            "email": "likebestupid@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.5"
+    }
+}
